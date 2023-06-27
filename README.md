@@ -2,7 +2,7 @@
 this is my project python in first semester in my campus.
 
 how to use this project : 
-
+import sql file into databse 
 install python
 running this command on cmd
 
